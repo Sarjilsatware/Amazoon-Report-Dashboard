@@ -1,2 +1,2 @@
 # Pharmaceutical-Report-Dashboard
-The Description of this project is to analyze and visualize Amazon's global sales performance across categories, markets, and geographies for the year 2025. The project leverages business intelligence tools to generate actionable insights from complex sales data.
+This comprehensive pharmaceutical report provides a detailed overview of drug consumption, cost distribution, and demographic insights across various Indian cities in 2025. The dashboard integrates multiple data dimensions such as patient demographics, disease prevalence, pharmacy branch performance, payment methods, and drug forms to facilitate informed healthcare decision-making.
